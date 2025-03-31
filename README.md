@@ -40,18 +40,18 @@
 ### 🧰 Mes outils & langages | My Tools & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,cs,kotlin,react,unity,git,linux,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,ts,C#,kotlin,react,unity,git,linux,vscode" alt="skills" />
 </p>
 
 ---
 
-### 🔥 Projets récents | Recent Projects
+### 🔥 Projets en cours | Recent Projects
 
 - 🎯 **Tactical RPG** (Unity, C#) — scénario riche, combats au tour par tour  
   🎯 **Tactical RPG** (Unity, C#) — rich storyline, turn-based combat
 
-- 🛍️ **Marketplace rétro** (React, Tailwind) — style pixel et animations fluides  
-  🛍️ **Retro marketplace** (React, Tailwind) — pixel style and smooth animations
+- 🛍️ **Marketplace rétro** (React, TypeScript) — style pixel et animations fluides  
+  🛍️ **Retro marketplace** (React, TypeScript) — pixel style and smooth animations
 
 - 🤖 **Scripts IA sur Azure** (Python) — déploiement de modèles, automatisation  
   🤖 **AI scripts on Azure** (Python) — model deployment and automation
@@ -61,9 +61,9 @@
 ### 📫 Me contacter | Get in Touch
 
 <p align="center">
-  ✉️ ada.fang.dev@gmail.com • Discord : AdaFang#1234  
+  ✉️ adafang@proton.me • 
   <br>
-  🌐 <a href="https://linkedin.com/in/tonprofil">LinkedIn</a> • <a href="https://github.com/AdaFang">GitHub</a>
+  🌐 <a href="https://github.com/0xAdafang">GitHub</a>
 </p>
 
 ---
