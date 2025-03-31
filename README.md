@@ -40,7 +40,7 @@
 ### 🧰 Mes outils & langages | My Tools & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,csharp,kotlin,react,unity" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,cs,kotlin,react,unity" alt="skills" />
 </p>
 
 
@@ -53,9 +53,6 @@
 
 - 🛍️ **Marketplace rétro** (React, TypeScript) — style pixel et animations fluides  
   🛍️ **Retro marketplace** (React, TypeScript) — pixel style and smooth animations
-
-- 🤖 **Scripts IA sur Azure** (Python) — déploiement de modèles, automatisation  
-  🤖 **AI scripts on Azure** (Python) — model deployment and automation
 
 ---
 
