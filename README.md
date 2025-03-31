@@ -1,6 +1,6 @@
 <!-- BANNIÈRE ANIMÉE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="welcome banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gi](https://i.gifer.com/9Lwu.gif" width="80%" alt="welcome banner" />
 </p>
 
 <h1 align="center">👾 Salut ! Moi c'est AdaFang | Hi there! I'm AdaFang 👋</h1>
