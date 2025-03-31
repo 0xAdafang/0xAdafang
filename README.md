@@ -40,8 +40,9 @@
 ### 🧰 Mes outils & langages | My Tools & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,C#,kotlin,react,unity,git,linux,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,csharp,kotlin,react,unity" alt="skills" />
 </p>
+
 
 ---
 
