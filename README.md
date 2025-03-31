@@ -2,26 +2,26 @@
   <img src="https://i.gifer.com/9Lwu.gif" width="40%" alt="welcome banner" />
 </p>
 
-<h1 align="center">👾 Salut ! Moi c'est Adafang | Hi there! I'm AdaFang 👋</h1>
+<h1 align="center">Moi c'est Adafang |I'm Adafang 👋</h1>
 
 <p align="center">
-🎮 Développeur full stack passionné par les jeux vidéo, l'IA et les projets créatifs.<br>
+🎮 Développeur full stack et fan de jeux videos, l'IA et les projets créatifs.<br>
 🎮 A full-stack developer passionate about video games, AI, and creative projects.
 </p>
 
 ---
 
-### 📌 En recherche d'emploi ! | Open to work!
+### 📌 En recherche d'emploi au Canada ou ailleurs ! | Open to work! On Canada or Somewhere !
 
-- 🚀 Je suis actuellement **ouvert aux opportunités professionnelles** dans le développement logiciel, les jeux vidéo ou l’IA  
-- 🚀 I'm currently **open to job opportunities** in software development, game dev, or AI
+- 🚀 Je suis actuellement **ouvert aux opportunités professionnelles** dans le développement logiciel, web, autres
+- 🚀 I'm currently **open to job opportunities** in software development, web or other
 
 ---
 
 ### 🧠 À propos de moi | About Me
 
-- 🧩 Je crée un **tactical RPG** avec Unity (inspiré de Fire Emblem & Octopath)  
-  🧩 I'm building a **tactical RPG** in Unity (inspired by Fire Emblem & Octopath)
+- 🧩 En ce moment je crée un **tactical RPG** avec Unity (inspiré de Fire Emblem, Octopath et Fear and Hunger)  
+  🧩 This time i'm building a **tactical RPG** in Unity (inspired by Fire Emblem, Octopath and Fear and Hunger)
 
 - 💡 J’aime explorer de nouveaux concepts : jeux, IA, systèmes interactifs...  
   💡 I love exploring new concepts: games, AI, interactive systems...
@@ -29,11 +29,9 @@
 - 🛠️ Je travaille avec **Python, TypeScript, C# et Kotlin**  
   🛠️ I work with **Python, TypeScript, C#, and Kotlin**
 
-- 🌱 En formation accélérée en développement d'applications  
-  🌱 Currently in an accelerated application development program
+- 🌱 En formation pour un diplome en développement d'applications  
+  🌱 Currently on formation for application development program graduation
 
-- 🌍 Mon rêve : créer des mondes aussi vivants que ceux des jeux qui m’ont marqué  
-  🌍 My dream: to build worlds as vivid as the games that inspired me
 
 ---
 
