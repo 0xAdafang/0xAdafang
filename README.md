@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/9Lwu.gif" width="40%" alt="welcome banner" />
 </p>
 
-<h1 align="center">I'm Adafang 👋</h1>
+<h1 align="center"> Yo i'm Adafang </h1>
 
 <p align="center">
 🎮 A full-stack developer passionate about video games, AI, and creative projects.
