@@ -38,7 +38,6 @@ About Me
   🛍️ **Retro marketplace** (React, TypeScript) — pixel style and smooth animations
 
 
-📫 Get in Touch
 <p align="center">
   ✉️ adafang@proton.me • 
   <br>
