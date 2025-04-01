@@ -8,11 +8,10 @@
 🎮 A full-stack developer passionate about video games, AI, and creative projects.
 </p>
 ---
-### 📌Open to work! On Canada or Somewhere !
+📌Open to work! On Canada or Somewhere !
 
-- 🚀 I'm currently **open to job opportunities** in software development, web or other
----
-###| 
+🚀 I'm currently **open to job opportunities** in software development, web or other
+--- 
 
 About Me
 
@@ -26,7 +25,7 @@ About Me
   
 ---
 
-### 🧰 My Tools & Languages
+🧰 My Tools & Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,cs,kotlin,react,unity" alt="skills" />
@@ -34,7 +33,7 @@ About Me
 
 ---
 
-### 🔥 Work in progress
+🔥 Work in progress
 
   🎯 **Tactical RPG** (Unity, C#) — rich storyline, turn-based combat
  
@@ -42,7 +41,7 @@ About Me
 
 ---
 
-### 📫 Get in Touch
+📫 Get in Touch
 <p align="center">
   ✉️ adafang@proton.me • 
   <br>
