@@ -12,8 +12,9 @@
 
 🚀 I'm currently **open to job opportunities** in software development, web or other
 
-
+<p align="center">
 About Me
+</p>
 
   🧩 This time i'm building a **tactical RPG** in Unity (inspired by Fire Emblem, Octopath and Fear and Hunger)
   
