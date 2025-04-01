@@ -9,9 +9,12 @@
 </p>
 ---
 ### 📌Open to work! On Canada or Somewhere !
+
 - 🚀 I'm currently **open to job opportunities** in software development, web or other
 ---
-###| About Me
+###| 
+
+About Me
 
   🧩 This time i'm building a **tactical RPG** in Unity (inspired by Fire Emblem, Octopath and Fear and Hunger)
   
@@ -31,7 +34,7 @@
 
 ---
 
-### 🔥 Recent Projects
+### 🔥 Work in progress
 
   🎯 **Tactical RPG** (Unity, C#) — rich storyline, turn-based combat
  
