@@ -7,11 +7,11 @@
 <p align="center">
 🎮 A full-stack developer passionate about video games, AI, and creative projects.
 </p>
----
+
 📌Open to work! On Canada or Somewhere !
 
 🚀 I'm currently **open to job opportunities** in software development, web or other
---- 
+
 
 About Me
 
@@ -23,15 +23,12 @@ About Me
 
   🌱 Currently on formation for application development program graduation
   
----
-
 🧰 My Tools & Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,cs,kotlin,react,unity" alt="skills" />
 </p>
 
----
 
 🔥 Work in progress
 
@@ -39,7 +36,6 @@ About Me
  
   🛍️ **Retro marketplace** (React, TypeScript) — pixel style and smooth animations
 
----
 
 📫 Get in Touch
 <p align="center">
@@ -47,4 +43,3 @@ About Me
   <br>
   🌐 <a href="https://github.com/0xAdafang">GitHub</a>
 </p>
----
