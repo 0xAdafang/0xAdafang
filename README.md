@@ -5,7 +5,7 @@
 <h1 align="center"> Yo i'm Adafang </h1>
 
 <p align="center">
- A full-stack developer passionate about video games, AI, and creative projects.
+ A full-stack developer passionate about video games and creative projects.
 </p>
 
 Open to work! On Canada or Somewhere !
