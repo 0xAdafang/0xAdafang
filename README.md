@@ -28,6 +28,7 @@
 <p align="center">
 ##  About Me
 </p>
+
 ```diff
 + 🧠 I love exploring new concepts: games, AI, interactive systems...
 + 💻 I'm currently work with Python, TypeScript, C#, Kotlin
