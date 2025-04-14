@@ -30,6 +30,6 @@
 
 ```diff
 + 🧠 I love exploring new concepts: games, AI, interactive systems...
-+ 💻 I work with Python, TypeScript, C#, Kotlin
++ 💻 I'm currently work with Python, TypeScript, C#, Kotlin
 ! 🔧 Currently learning: C, C++, Rust
 + 🎓 Finishing app dev program — graduation soon!
