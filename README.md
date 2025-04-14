@@ -16,6 +16,20 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌀%20Seeking%20New%20Horizons-Available%20Now
+<img src="https://img.shields.io/badge/🌀%20Seeking%20New%20Horizons-Available%20Now-%23ff00ff?style=for-the-badge&logo=retroarch&logoColor=white" />
+<br><br>
 
+<!-- Terminal style block -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=500&lines=%3E+System+Status%3A+ACTIVE;%3E+Role+Target%3A+software%2Fweb%2Fgame+dev;%3E+Objective%3A+Build+cool+sh*t+with+awesome+people;%3E+Execute%3A+sudo+hire+adafang" alt="Terminal Typing" />
 
+</div>
+
+---
+
+## 👾 About Me
+
+```diff
++ 🧠 I love exploring new concepts: games, AI, interactive systems...
++ 💻 I work with Python, TypeScript, C#, Kotlin
+! 🔧 Currently learning: C, C++, Rust
++ 🎓 Finishing app dev program — graduation soon!
