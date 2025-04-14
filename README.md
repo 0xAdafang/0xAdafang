@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/9Lwu.gif" width="40%" alt="welcome banner" />
+  <img src="https://i.pinimg.com/originals/26/67/e0/2667e0f188eafba8fc3a082d52137607.gif" width="40%" alt="welcome banner" />
 </p>
 
 <h1 align="center"> Yo i'm Adafang </h1>
