@@ -15,21 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌀%20Seeking%20New%20Horizons-Available%20Now-%23ff00ff?style=for-the-badge&logo=retroarch&logoColor=white" />
-  <br />
-  <code style="font-size: 14px; color: #00ffee; background: #111122; padding: 8px 14px; border-radius: 8px; display: inline-block;">
-    Currently open to software/web/game dev roles – let’s build something cool together 
-  </code>
-</div>
 
----
-
-## About Me
-
-```diff
-+ 🧠 I love exploring new concepts: games, AI, interactive systems...
-+ 💻 I work with Python, TypeScript, C#, Kotlin
-! 🔧 Currently learning: C, C++, Rust
-+ 🎓 Finishing app dev program — graduation soon!
+<img src="https://img.shields.io/badge/🌀%20Seeking%20New%20Horizons-Available%20Now
 
 
