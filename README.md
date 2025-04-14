@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/26/67/e0/2667e0f188eafba8fc3a082d52137607.gif" width="40%" alt="welcome banner" />
+  <img src="https://i.pinimg.com/originals/26/67/e0/2667e0f188eafba8fc3a082d52137607.gif" width="40%" alt="welcome banner" style="border-radius: 15px;" />
 </p>
 
 <h1 align="center">
@@ -14,11 +14,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Canada%20%7C%20Remote-%23ff00ff?style=for-the-badge&logo=retroarch&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🌀%20Seeking%20New%20Horizons-Available%20Now-%23ff00ff?style=for-the-badge&logo=retroarch&logoColor=white" />
+  <br />
+  <code style="font-size: 14px; color: #00ffee; background: #111122; padding: 8px 14px; border-radius: 8px; display: inline-block;">
+    Currently open to software/web/game dev roles – let’s build something cool together 🚀
+  </code>
+</div>
 
-> 🎯 I'm currently **open to job opportunities** in software development, web or game dev.  
+---
 
 ## 👾 About Me
 
@@ -27,4 +31,5 @@
 + 💻 I work with Python, TypeScript, C#, Kotlin
 ! 🔧 Currently learning: C, C++, Rust
 + 🎓 Finishing app dev program — graduation soon!
+
 
