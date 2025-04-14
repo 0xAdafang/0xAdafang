@@ -20,7 +20,7 @@ About Me
   I love exploring new concepts: games, AI, interactive systems...
   
   I work with **Python, TypeScript, C#, and Kotlin**
-  I also learn **C, C++ and Rust**
+  I also learning **C, C++ and Rust**
 
   Currently on formation for application development program graduation
   
