@@ -32,5 +32,5 @@
 ```diff
 + 🧠 I love exploring new concepts: games, AI, interactive systems...
 + 💻 I'm currently work with Python, C#
-! 🔧 Currently learning: Rust
+! 🔧 Currently learning: Rust (i'm trying)
 + 🎓 Finishing app dev program — graduation soon!
