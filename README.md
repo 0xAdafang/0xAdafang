@@ -31,6 +31,6 @@
 
 ```diff
 + 🧠 I love exploring new concepts: games, AI, interactive systems...
-+ 💻 I'm currently work with Python, C#, TS
++ 💻 I'm currently work with Python, C#, TS, Kotlin
 ! 🔧 Currently learning: Rust (i'm trying), Unity
 + 🎓 Finishing app dev program — graduation soon!
