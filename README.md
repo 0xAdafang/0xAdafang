@@ -27,7 +27,7 @@
 --- 
 
 <p align="center">
-##  About Me
+About Me
 </p>
 
 ```diff
