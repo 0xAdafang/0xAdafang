@@ -56,7 +56,7 @@
 | 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | Rust | Simulation asynchrone d’un fast-food en terminal |
 | 🕹 [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TypeScript / PostgreSQL | Marketplace rétro full-stack avec panier et dashboard |
 | 🔊 [Whisper_Azure](https://github.com/0xAdafang/Whisper_Azure) | Python / Azure | Fonction Azure pour transcrire automatiquement des fichiers audio via Whisper |
-| 🧭 [WhisperX CLI Migration]([https://github.com/0xAdafang/whisperx-cli-rust](https://github.com/0xAdafang/WhisperX-worker-Api_Server)) | Python | Migration de WhisperX avec server API en CLI avec Docker pour transcription rapide, portable, locale sur Azure (collab pour un ami dans l'ia) |
+| 🧭 [WhisperX CLI Migration](https://github.com/0xAdafang/WhisperX-worker-Api_Server) | Python | Migration de WhisperX avec server API en CLI avec Docker pour transcription rapide, portable, locale sur Azure (collab pour un ami dans l'ia) |
 
 ---
 
