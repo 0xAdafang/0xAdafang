@@ -27,7 +27,7 @@
 
 ## ✨ À propos
 
-Je suis **Terence**, développeur full-stack basé au Québec.  
+Je suis **Terence**, développeur full-stack basé a Montréal.  
 Je construis des applications modernes, locales, offline-first, avec des fonctionnalités avancées côté IA et des dashboards ergonomiques.
 
 Mes outils préférés allient performance, minimalisme et efficacité :
