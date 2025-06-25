@@ -7,6 +7,8 @@
 
 ---
 
+<link rel="stylesheet" href="assets/biticon/bitIcon.css">
+
 ## 🛠️ Stack & Langages
 
 <p align="center">
