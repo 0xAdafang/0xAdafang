@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <i><b style="color:#f0f">Développeur full-stack</b> explorant les IA locales, les apps offline-first, et les architectures Rust-powered.</i><br>
-  <i><b style="color:#0ff">Créer intelligemment, coder proprement.</b></i>
+  <i><b style="color:#f0f">Développeur full-stack</b> explorant les apps web, les apps dekstops, mobile, interet pour le Rust-Universe (futur Rustecean) et le cloud/IA </i><br>
+  <i><b style="color:#0ff">Créer intelligemment, coder, tester, corriger, tester encore et encore ! tel est ma discipline </b></i>
 </p>
 
 ---
