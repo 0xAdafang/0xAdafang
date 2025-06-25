@@ -10,19 +10,20 @@
 ## 🛠️ Stack & Langages
 
 <p align="center">
-  <img src="assets/logos/typescript.svg" alt="TypeScript" width="40" />
-  <img src="assets/logos/rust.svg" alt="Rust" width="40" />
-  <img src="assets/logos/go.svg" alt="Go" width="40" />
-  <img src="assets/logos/python.svg" alt="Python" width="40" />
-  <img src="assets/logos/kotlin.svg" alt="Kotlin" width="40" />
-  <img src="assets/logos/elixir.svg" alt="Elixir" width="40" />
-  <img src="assets/logos/react.svg" alt="React" width="40" />
-  <img src="assets/logos/tailwind.svg" alt="TailwindCSS" width="40" />
-  <img src="assets/logos/postgresql.svg" alt="PostgreSQL" width="40" />
-  <img src="assets/logos/docker.svg" alt="Docker" width="40" />
-  <img src="assets/logos/azure.svg" alt="Azure" width="40" />
-  <img src="assets/logos/bash.svg" alt="Bash" width="40" />
+  <i class="bitIcon-ts"></i> <!-- TypeScript -->
+  <i class="bitIcon-rust"></i> <!-- Rust -->
+  <i class="bitIcon-go"></i> <!-- Go -->
+  <i class="bitIcon-python"></i> <!-- Python -->
+  <i class="bitIcon-kotlin"></i> <!-- Kotlin -->
+  <i class="bitIcon-elixir"></i> <!-- Elixir -->
+  <i class="bitIcon-react"></i> <!-- React -->
+  <i class="bitIcon-tailwindcss"></i> <!-- TailwindCSS -->
+  <i class="bitIcon-postgresql"></i> <!-- PostgreSQL -->
+  <i class="bitIcon-docker"></i> <!-- Docker -->
+  <i class="bitIcon-azure"></i> <!-- Azure -->
+  <i class="bitIcon-bash"></i> <!-- Bash -->
 </p>
+
 
 ---
 
