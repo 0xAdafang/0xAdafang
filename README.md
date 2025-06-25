@@ -58,7 +58,7 @@ Mes outils préférés allient performance, minimalisme et efficacité :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xAdafang&show_icons=true&theme=radical&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAdafang&layout=compact&theme=radical&hide=html,css,shell" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAdafang&layout=compact&hide=html,css,shell&langs_count=8" />
 </p>
 
 > ⚠️ *Langages mal estimés : la prédominance Rust est due aux mono-repos côté backend.*
