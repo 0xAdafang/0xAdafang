@@ -45,8 +45,6 @@
 | Projet | Tech | Description |
 |--------|------|-------------|
 | 🔐 [HN_Smart_Hub](https://github.com/0xAdafang/HN_Smart_Hub) | Rust / Elixir / React | App desktop RH avec assistant IA local |
-| 🧠 LLM Sentinel *(privé)* | Rust / Go / Python | Framework modulaire IA offline |
-| 🃏 RustCards *(soon)* | Rust | Jeu de cartes post-apocalyptique |
 | 📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster) | Kotlin | App Android de vocabulaire par boosters |
 | 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | Rust | Simu multi-rôle avec async / file d’attente |
 | 🕹 [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TS / PostgreSQL | Marketplace rétro avec panier & backoffice |
