@@ -54,21 +54,10 @@ Mes outils préférés allient performance, minimalisme et efficacité :
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAdafang&show_icons=true&theme=radical&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAdafang&layout=compact&hide=html,css,shell&langs_count=8" />
-</p>
-
-> ⚠️ *Langages mal estimés : la prédominance Rust est due aux mono-repos côté backend.*
-
----
-
 ## 🖤 Philosophie
 
 J’aime construire des outils **simples mais puissants**, maîtriser toute la stack (de l’UI au bas niveau), et proposer des solutions **offlines, locales et éthiques**.  
-Je m’investis dans chaque projet avec une logique d’apprentissage et de progression continue.
+Je m’investis dans chaque projet avec une logique d’apprentissage et de progression continue. je suis toujours poussé par la curiosité d'apprendre de nouveau trucs
 
 ---
 
