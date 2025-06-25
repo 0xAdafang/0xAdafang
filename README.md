@@ -1,7 +1,7 @@
-<h1 align="center" style="color:#0ff">🧠 Terence Sionneau | Full Stack Dev & AI Architect</h1>
+<h1 align="center" style="color:#0ff">🧠 Terence | Full Stack Dev & AI Architect</h1>
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1745985376405-MBYSNTVK5V1Q5G14V2II/cardash2.gif" width="300"/>
+  <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ## 🧬 Philosophie
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1745989508558-4YMR62G2FWAS4NBXAEUM/dna4.gif" width="300"/>
+  <img src="assets/dna4.gif" width="300" alt="dna-animation" />
 </p>
 
 J’aime construire des outils **simples mais puissants**, maîtriser toute la stack (de l’UI au bas niveau), et proposer des solutions **offlines, locales et éthiques**.  
