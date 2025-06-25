@@ -7,21 +7,21 @@
 
 ---
 
-## 🛠️ Stack principale
+## 🛠️ Stack & Langages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+  <img src="assets/logos/typescript.svg" alt="TypeScript" width="40" />
+  <img src="assets/logos/rust.svg" alt="Rust" width="40" />
+  <img src="assets/logos/go.svg" alt="Go" width="40" />
+  <img src="assets/logos/python.svg" alt="Python" width="40" />
+  <img src="assets/logos/kotlin.svg" alt="Kotlin" width="40" />
+  <img src="assets/logos/elixir.svg" alt="Elixir" width="40" />
+  <img src="assets/logos/react.svg" alt="React" width="40" />
+  <img src="assets/logos/tailwind.svg" alt="TailwindCSS" width="40" />
+  <img src="assets/logos/postgresql.svg" alt="PostgreSQL" width="40" />
+  <img src="assets/logos/docker.svg" alt="Docker" width="40" />
+  <img src="assets/logos/azure.svg" alt="Azure" width="40" />
+  <img src="assets/logos/bash.svg" alt="Bash" width="40" />
 </p>
 
 ---
