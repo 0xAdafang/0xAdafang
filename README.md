@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner-glitch.png" width="800" alt="banner 0xAdafang glitch" style="border-radius:8px;" />
-</p>
 
 <h1 align="center">🧠 Terence | Full Stack Dev & AI Architect</h1>
 
