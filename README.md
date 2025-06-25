@@ -1,71 +1,72 @@
-<h1 align="center">👨‍💻 Terence | Full Stack Developer & AI Explorer</h1>
+<h1 align="center" style="color:#0ff">🧠 Terence Sionneau | Full Stack Dev & AI Architect</h1>
 
 <p align="center">
-  <i>Développeur full-stack passionné par l'IA locale, le dev offline-first, et les interfaces propres & efficaces.</i><br>
-  <i>Je code pour comprendre, créer, et apprendre. 🌍</i>
+  <img src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1745985376405-MBYSNTVK5V1Q5G14V2II/cardash2.gif" width="300"/>
+</p>
+
+<p align="center">
+  <i><b style="color:#f0f">Développeur full-stack</b> explorant les IA locales, les apps offline-first, et les architectures Rust-powered.</i><br>
+  <i><b style="color:#0ff">Créer intelligemment, coder proprement.</b></i>
 </p>
 
 ---
 
-## 🛠️ Stack & Langages
+## ⚙️ Stack & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40" alt="Elixir"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 </p>
 
 ---
 
-## ✨ À propos
+## 🌐 À propos de moi
 
-Je suis **Terence**, développeur full-stack basé a Montréal.  
-Je construis des applications modernes, locales, offline-first, avec des fonctionnalités avancées côté IA et des dashboards ergonomiques.
-
-Mes outils préférés allient performance, minimalisme et efficacité :
-- **Rust** pour la logique et les performances natives
-- **Typescript** pour le front et le backend web
-- **React + Tailwind** pour un front élégant et réactif
-- **Go, Elixir** pour des APIs ou orchestrateurs efficaces
-- **Python** pour intégrer des LLM locaux avec Ollama
+📍 Basé au Québec  
+🛠️ Full stack + IA + DevOps  
+🧠 Je développe des outils locaux intelligents, offline-first, respectueux de la vie privée  
+🧪 J’adore expérimenter : Tauri, Ollama, Langchain, Rust, Go, Elixir...
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets en lumière
 
-| Projet | Langages | Description |
-|--------|----------|-------------|
-| 🔐 [HN_Smart_Hub](https://github.com/0xAdafang/HN_Smart_Hub) | `Rust` `TypeScript` `Elixir` | App desktop RH offline-first avec assistant IA local, suivi RH, indicateurs, congés, téléventes, formations |
-| 📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster) | `Kotlin` | App Android pour apprendre le vocabulaire via des boosters quotidiens et quiz |
-| 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | `Rust` | Simulation d’un fast-food avec logique concurrente, Mutex, tokio, boucles async – sandbox d'apprentissage système |
-| 🕹 [Retro_Market](https://github.com/0xAdafang/Retro_Market) | `TypeScript` `PostgreSQL` | Marketplace rétro avec panier, effet React, gestion produits, commandes et base PostgreSQL |
-| 🔊 [Whisper_Azure](https://github.com/0xAdafang/Whisper_Azure) | `Python` `Azure` | Fonction Azure convertissant des MP3 en texte via Whisper + stockage cloud |
-
-> 💡 Tous mes projets ont une vocation double : **m’apprendre une techno**, et **servir un usage concret**.
+| Projet | Tech | Description |
+|--------|------|-------------|
+| 🔐 [HN_Smart_Hub](https://github.com/0xAdafang/HN_Smart_Hub) | Rust / Elixir / React | App desktop RH avec assistant IA local |
+| 🧠 LLM Sentinel *(privé)* | Rust / Go / Python | Framework modulaire IA offline |
+| 🃏 RustCards *(soon)* | Rust | Jeu de cartes post-apocalyptique |
+| 📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster) | Kotlin | App Android de vocabulaire par boosters |
+| 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | Rust | Simu multi-rôle avec async / file d’attente |
+| 🕹 [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TS / PostgreSQL | Marketplace rétro avec panier & backoffice |
 
 ---
 
-## 🖤 Philosophie
+## 🧬 Philosophie
+
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1745989508558-4YMR62G2FWAS4NBXAEUM/dna4.gif" width="300"/>
+</p>
 
 J’aime construire des outils **simples mais puissants**, maîtriser toute la stack (de l’UI au bas niveau), et proposer des solutions **offlines, locales et éthiques**.  
 Je m’investis dans chaque projet avec une logique d’apprentissage et de progression continue. je suis toujours poussé par la curiosité d'apprendre de nouveau trucs
-
 ---
 
 ## 📬 Me contacter
 
-- 📫 Email : **adafang@proton.me**
+- 📫 Email : [adafang@proton.me](mailto:adafang@proton.me)
 - 🌐 GitHub : [@0xAdafang](https://github.com/0xAdafang)
 
 ---
 
-> ⭐ N'hésite pas à explorer mes projets et laisser une étoile si l’un d’eux t’inspire !
-
+> 🔹 *Si un projet t’inspire, laisse une étoile ou envoie un message !*
