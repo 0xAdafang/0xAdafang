@@ -1,12 +1,16 @@
-<h1 align="center" style="color:#0ff">🧠 Terence | Full Stack Dev & AI Architect</h1>
+<p align="center">
+  <img src="assets/banner-glitch.png" width="800" alt="banner 0xAdafang glitch" style="border-radius:8px;" />
+</p>
+
+<h1 align="center">🧠 Terence | Full Stack Dev & AI Architect</h1>
 
 <p align="center">
-  <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" />
+  <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
 </p>
 
 <p align="center">
-  <i><b style="color:#f0f">Développeur full-stack</b> explorant les apps web, les apps dekstops, mobile, interet pour le Rust-Universe (futur Rustecean) et le cloud/IA </i><br>
-  <i><b style="color:#0ff">Créer intelligemment, coder, tester, corriger, tester encore et encore ! tel est ma discipline </b></i>
+  <i><b style="color:#f0f">Développeur full-stack</b> explorant les apps web, desktop, mobile, avec un intérêt particulier pour le Rust-Universe et le cloud/IA.</i><br>
+  <i><b style="color:#0ff">Créer intelligemment, coder, tester, corriger, tester encore et encore ! Tel est ma discipline.</b></i>
 </p>
 
 ---
@@ -55,11 +59,12 @@
 ## 🧬 Philosophie
 
 <p align="center">
-  <img src="assets/dna4.gif" width="300" alt="dna-animation" />
+  <img src="assets/dna4.gif" width="300" alt="dna-animation" style="opacity:0.8; border-radius:12px;" />
 </p>
 
 J’aime construire des outils **simples mais puissants**, maîtriser toute la stack (de l’UI au bas niveau), et proposer des solutions **offlines, locales et éthiques**.  
-Je m’investis dans chaque projet avec une logique d’apprentissage et de progression continue. je suis toujours poussé par la curiosité d'apprendre de nouveau trucs
+Je m’investis dans chaque projet avec une logique d’apprentissage et de progression continue. Je suis toujours poussé par la curiosité d’apprendre de nouvelles choses.
+
 ---
 
 ## 📬 Me contacter
