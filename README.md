@@ -1,5 +1,5 @@
 
-<h1 align="center">🧠 𝗧𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩 </h1>
+<h1 align="center"> 𝗧𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩 </h1>
 
 <p align="center">
   <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
