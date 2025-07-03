@@ -73,8 +73,6 @@
 ## 📬 𝗚𝗘𝗧 𝗜𝗡 𝗧𝗢𝗨𝗖𝗛
 
 - 📫 𝗘𝗠𝗔𝗜𝗟: [adafang@proton.me](mailto:adafang@proton.me)  
-- 🌐 𝗚𝗜𝗧𝗛𝗨𝗕: [@0xAdafang](https://github.com/0xAdafang)
-
 ---
 
 > 🔹 <b> -> 𝗜𝗙 𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗜𝗡𝗦𝗣𝗜𝗥𝗘𝗦 𝗬𝗢𝗨, 𝗟𝗘𝗔𝗩𝗘 𝗔 𝗦𝗧𝗔𝗥 ✨</b>
