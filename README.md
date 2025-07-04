@@ -50,7 +50,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| 🔐 [HN_Smart_Hub](https://github.com/0xAdafang/HN_Smart_Hub) | Rust / TypeScript / React | Desktop HR app with local AI assistant, metrics, leave management, telemarketing |
+| 🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub) | Rust / TypeScript / React | Desktop HR app with local AI assistant, metrics, leave management, telemarketing |
 | 📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster) | Kotlin | Android vocabulary app for daily boosting and quizzes |
 | 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | Rust | Asynchronous fast-food restaurant simulation in terminal |
 | 🕹 [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TypeScript / PostgreSQL | Full-stack retro marketplace with cart and dashboard |
