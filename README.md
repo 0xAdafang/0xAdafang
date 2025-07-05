@@ -51,9 +51,10 @@
 | Project | Tech | Description |
 |---------|------|-------------|
 | 🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub) | Rust / TypeScript / React | Desktop HR app with local AI assistant, metrics, leave management, telemarketing |
-| 📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster) | Kotlin | Android vocabulary app for daily boosting and quizzes |
+| 📱  [PolyBooster](https://github.com/0xAdafang/PolyBooster) | Kotlin | Android vocabulary app for daily boosting and quizzes |
+| 🎭 [PersonAi](https://github.com/0xAdafang/PersonAi) | Rust / TypeScript / Go / Python / React | Offline desktop assistant to create and chat with fully custom AI characters |
 | 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | Rust | Asynchronous fast-food restaurant simulation in terminal |
-| 🕹 [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TypeScript / PostgreSQL | Full-stack retro marketplace with cart and dashboard |
+| 🕹  [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TypeScript / PostgreSQL | Full-stack retro marketplace with cart and dashboard |
 | 🔊 [Whisper_Azure](https://github.com/0xAdafang/Whisper_Azure) | Python / Azure | Azure function for automatic audio file transcription via Whisper |
 | 🧭 [WhisperX CLI Migration](https://github.com/0xAdafang/WhisperX-worker-Api_Server) | Python / Azure / Docker | WhisperX migration with API server to CLI using Docker for fast, portable, local transcription on Azure (collaboration for an AI friend) |
 
