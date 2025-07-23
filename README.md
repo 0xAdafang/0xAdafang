@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
 </p>
 
 <h1 align="center"> 𝗧𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩 </h1>
