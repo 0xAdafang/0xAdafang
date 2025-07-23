@@ -83,5 +83,5 @@
 > 🔹 <b> -> 𝗜𝗙 𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗜𝗡𝗦𝗣𝗜𝗥𝗘𝗦 𝗬𝗢𝗨, 𝗟𝗘𝗔𝗩𝗘 𝗔 𝗦𝗧𝗔𝗥 ✨ </b>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="cyberpunk-car-bottom" style="opacity:0.8; border-radius:12px;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-bottom" style="opacity:0.8; border-radius:12px;" />
 </p>
