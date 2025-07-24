@@ -40,7 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+</p>
 
 ## 🌐 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
@@ -49,7 +51,9 @@
 💻 𝗜 𝗗𝗘𝗩𝗘𝗟𝗢𝗣 𝗪𝗘𝗕 & 𝗗𝗘𝗦𝗞𝗧𝗢𝗣 𝗧𝗢𝗢𝗟𝗦, 𝗔𝗠 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗘𝗗 𝗜𝗡 𝗔𝗜, 𝗖𝗟𝗢𝗨𝗗, 𝗔𝗡𝗗 𝗕𝗟𝗢𝗖𝗞𝗖𝗛𝗔𝗜𝗡.  
 ✍️ 𝗜 𝗔𝗟𝗦𝗢 𝗪𝗥𝗜𝗧𝗘 𝗔 𝗦𝗧𝗢𝗥𝗬𝗟𝗜𝗡𝗘 𝗢𝗡 𝗠𝗬 𝗙𝗥𝗘𝗘 𝗧𝗜𝗠𝗘, 𝗪𝗜𝗧𝗛 𝗧𝗛𝗘 𝗚𝗢𝗔𝗟 𝗢𝗙 𝗧𝗨𝗥𝗡𝗜𝗡𝗚 𝗜𝗧 𝗜𝗡𝗧𝗢 𝗔 𝗚𝗔𝗠𝗘.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+</p>
 
 ## 🚀 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
@@ -63,7 +67,9 @@
 | 🔊 [Whisper_Azure](https://github.com/0xAdafang/Whisper_Azure) | Python / Azure | Azure function for automatic audio file transcription via Whisper |
 | 🧭 [WhisperX CLI Migration](https://github.com/0xAdafang/WhisperX-worker-Api_Server) | Python / Azure / Docker | WhisperX migration with API server to CLI using Docker for fast, portable, local transcription on Azure (collaboration for an AI friend) |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+</p>
 
 ## 🧬 𝗣𝗛𝗜𝗟𝗢𝗦𝗢𝗣𝗛𝗬
 
@@ -74,12 +80,17 @@
 𝗜 𝗟𝗢𝗩𝗘 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 **𝗦𝗜𝗠𝗣𝗟𝗘 𝗬𝗘𝗧 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟** 𝗧𝗢𝗢𝗟𝗦, 𝗠𝗔𝗦𝗧𝗘𝗥𝗜𝗡𝗚 𝗧𝗛𝗘 𝗦𝗧𝗔𝗖𝗞 𝗙𝗥𝗢𝗠 𝗨𝗜 𝗧𝗢 𝗟𝗢𝗪-𝗟𝗘𝗩𝗘𝗟.  
 𝗜 𝗜𝗡𝗩𝗘𝗦𝗧 𝗠𝗬𝗦𝗘𝗟𝗙 𝗪𝗜𝗧𝗛 𝗣𝗔𝗦𝗦𝗜𝗢𝗡, 𝗗𝗥𝗜𝗩𝗘𝗡 𝗕𝗬 𝗧𝗛𝗘 𝗖𝗨𝗥𝗜𝗢𝗦𝗜𝗧𝗬 𝗧𝗢 𝗔𝗟𝗪𝗔𝗬𝗦 𝗟𝗘𝗔𝗥𝗡.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+</p>
 
 ## 📬 𝗚𝗘𝗧 𝗜𝗡 𝗧𝗢𝗨𝗖𝗛
 
-- 📫 𝗘𝗠𝗔𝗜𝗟: [adafang@proton.me](mailto:adafang@proton.me)  
----
+- 📫 𝗘𝗠𝗔𝗜𝗟: [adafang@proton.me](mailto:adafang@proton.me)
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+</p>
 
 > 🔹 <b> -> 𝗜𝗙 𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗜𝗡𝗦𝗣𝗜𝗥𝗘𝗦 𝗬𝗢𝗨, 𝗟𝗘𝗔𝗩𝗘 𝗔 𝗦𝗧𝗔𝗥 ✨ </b>
 
