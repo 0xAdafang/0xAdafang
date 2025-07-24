@@ -9,15 +9,12 @@
   <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
 </p>
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
+  <strong>𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥</strong><br>
+  Focusing on **Java Spring Boot** & **Angular** for professional growth,  
+  while exploring **Rust**, **Go**, **Solidity** and **Python** for pleasure.<br><br>
+  <strong>Code with passion, build, experiment, learn, create!</strong>
 </p>
-<h1 align="center"> 𝗧𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩 </h1>
-<p align="center">
-  <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
-</p>
-<div align="center">
 
 ---
 
