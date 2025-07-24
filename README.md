@@ -10,11 +10,12 @@
 </p>
 
 <p align="center">
-  <strong>𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥</strong><br>
-  Focusing on **Java Spring Boot** & **Angular** for professional growth,  
-  while exploring **Rust**, **Go**, **Solidity** and **Python** for pleasure.<br><br>
-  <strong>Code with passion, build, experiment, learn, create!</strong>
+  <b>𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥</b><br>
+  𝗙𝗢𝗖𝗨𝗦𝗜𝗡𝗚 𝗢𝗡 𝗝𝗔𝗩𝗔 𝗦𝗣𝗥𝗜𝗡𝗚 𝗕𝗢𝗢𝗧 & 𝗔𝗡𝗚𝗨𝗟𝗔𝗥 𝗙𝗢𝗥 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗚𝗥𝗢𝗪𝗧𝗛,<br>
+  𝗪𝗛𝗜𝗟𝗘 𝗘𝗫𝗣𝗟𝗢𝗥𝗜𝗡𝗚 𝗥𝗨𝗦𝗧, 𝗚𝗢, 𝗦𝗢𝗟𝗜𝗗𝗜𝗧𝗬 𝗔𝗡𝗗 𝗣𝗬𝗧𝗛𝗢𝗡 𝗙𝗢𝗥 𝗣𝗟𝗘𝗔𝗦𝗨𝗥𝗘.<br><br>
+  <b>𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗣𝗔𝗦𝗦𝗜𝗢𝗡, 𝗕𝗨𝗜𝗟𝗗, 𝗘𝗫𝗣𝗘𝗥𝗜𝗠𝗘𝗡𝗧, 𝗟𝗘𝗔𝗥𝗡, 𝗖𝗥𝗘𝗔𝗧𝗘!</b>
 </p>
+
 
 ---
 
