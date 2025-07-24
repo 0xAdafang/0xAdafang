@@ -11,18 +11,13 @@
 
 
 <p align="center">
-  <b style="color:#f0f">
-    𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 
-  </b>
-  <span style="color:white">
-    𝗙𝗢𝗖𝗨𝗦𝗜𝗡𝗚 𝗢𝗡 𝗝𝗔𝗩𝗔 𝗦𝗣𝗥𝗜𝗡𝗚 𝗕𝗢𝗢𝗧 & 𝗔𝗡𝗚𝗨𝗟𝗔𝗥 𝗙𝗢𝗥 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗚𝗥𝗢𝗪𝗧𝗛,<br>
-    𝗪𝗛𝗜𝗟𝗘 𝗘𝗫𝗣𝗟𝗢𝗥𝗜𝗡𝗚 𝗥𝗨𝗦𝗧, 𝗚𝗢, 𝗦𝗢𝗟𝗜𝗗𝗜𝗧𝗬 𝗔𝗡𝗗 𝗣𝗬𝗧𝗛𝗢𝗡 𝗙𝗢𝗥 𝗣𝗟𝗘𝗔𝗦𝗨𝗥𝗘.
-  </span><br>
-  <b style="color:#0ff">
-    𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗣𝗔𝗦𝗦𝗜𝗢𝗡, 𝗕𝗨𝗜𝗟𝗗, 𝗘𝗫𝗣𝗘𝗥𝗜𝗠𝗘𝗡𝗧, 𝗟𝗘𝗔𝗥𝗡, 𝗖𝗥𝗘𝗔𝗧𝗘!
-  </b>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
 </p>
-
+<h1 align="center"> 𝗧𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩 </h1>
+<p align="center">
+  <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
+</p>
+<div align="center">
 
 ---
 
