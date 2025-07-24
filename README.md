@@ -87,6 +87,7 @@
 ## 📬 𝗚𝗘𝗧 𝗜𝗡 𝗧𝗢𝗨𝗖𝗛
 
 - 📫 𝗘𝗠𝗔𝗜𝗟: [adafang@proton.me](mailto:adafang@proton.me)
+- 💼 𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡: [linkedin.com/in/terence-sionneau-8747b819b](https://www.linkedin.com/in/terence-sionneau-8747b819b)
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
