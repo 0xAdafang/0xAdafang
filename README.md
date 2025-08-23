@@ -90,7 +90,7 @@
 - 💼 𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡: [linkedin.com/in/terence-sionneau-8747b819b](https://www.linkedin.com/in/térence-sionneau-8747b819b)
 
 <p align="center">
-  <img src="assets/typingcat.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
+  <img src="assets/cute-wallpaper.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
 </p>
   
 <p align="center">
