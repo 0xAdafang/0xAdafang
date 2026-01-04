@@ -14,7 +14,7 @@
 
   <p>
     Based in <b>Montreal</b> 🇨🇦. I craft web & desktop tools with a focus on performance and architecture.<br>
-    Passionate about <b>AI, Cloud, and Blockchain</b>. Still learning many thing about IT, coding, game design.
+    Passionate about <b>AI, Cloud, and Blockchain</b>. Still learning many things about IT, coding, game design.
   </p>
 
   <br />
