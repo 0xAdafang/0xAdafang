@@ -1,104 +1,87 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="120" width="100%" style="object-fit: cover; opacity:0.8; border-radius:12px;" />
 
-<h1 align="center"> 𝗧𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩 </h1>
+  <br />
+  <br />
 
-<p align="center">
-  <img src="assets/cardash2.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
-</p>
+  <h1>👋 Hi, I'm Terence</h1>
+  <h3>Full Stack Developer | Java Spring Boot & Angular</h3>
 
-<p align="center">
+  <p>
+    <b>Building robust enterprise solutions by day, exploring low-level system programming by night.</b>
+  </p>
 
-### 💻 𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 💻  
-### 🎯 𝗙𝗢𝗖𝗨𝗦𝗜𝗡𝗚 𝗢𝗡 𝗝𝗔𝗩𝗔 𝗦𝗣𝗥𝗜𝗡𝗚 𝗕𝗢𝗢𝗧 & 𝗔𝗡𝗚𝗨𝗟𝗔𝗥 𝗙𝗢𝗥 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗚𝗥𝗢𝗪𝗧𝗛  
-### 🔬 𝗪𝗛𝗜𝗟𝗘 𝗘𝗫𝗣𝗟𝗢𝗥𝗜𝗡𝗚 𝗥𝗨𝗦𝗧 • 𝗚𝗢 • 𝗦𝗢𝗟𝗜𝗗𝗜𝗧𝗬 • 𝗣𝗬𝗧𝗛𝗢𝗡 𝗙𝗢𝗥 𝗣𝗟𝗘𝗔𝗦𝗨𝗥𝗘  
+  <p>
+    Based in <b>Montreal</b> 🇨🇦. I craft web & desktop tools with a focus on performance and architecture.<br>
+    Passionate about <b>AI, Cloud, and Blockchain</b>. Currently writing a dark fantasy storyline for a future game project.
+  </p>
 
-### ✨ 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗣𝗔𝗦𝗦𝗜𝗢𝗡 • 𝗕𝗨𝗜𝗟𝗗 • 𝗘𝗫𝗣𝗘𝗥𝗜𝗠𝗘𝗡𝗧 • 𝗟𝗘𝗔𝗥𝗡 • 𝗖𝗥𝗘𝗔𝗧𝗘 ✨
+  <br />
 
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
-
-## ⚙️ 𝗦𝗧𝗔𝗖𝗞 & 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
-
-## 🌐 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
-
-📍 𝗙𝗥𝗢𝗠 𝗠𝗢𝗡𝗧𝗥𝗘𝗔𝗟  
-🛠️ 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞  
-💻 𝗜 𝗗𝗘𝗩𝗘𝗟𝗢𝗣 𝗪𝗘𝗕 & 𝗗𝗘𝗦𝗞𝗧𝗢𝗣 𝗧𝗢𝗢𝗟𝗦, 𝗔𝗠 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗘𝗗 𝗜𝗡 𝗔𝗜, 𝗖𝗟𝗢𝗨𝗗, 𝗔𝗡𝗗 𝗕𝗟𝗢𝗖𝗞𝗖𝗛𝗔𝗜𝗡.  
-✍️ 𝗜 𝗔𝗟𝗦𝗢 𝗪𝗥𝗜𝗧𝗘 𝗔 𝗦𝗧𝗢𝗥𝗬𝗟𝗜𝗡𝗘 𝗢𝗡 𝗠𝗬 𝗙𝗥𝗘𝗘 𝗧𝗜𝗠𝗘, 𝗪𝗜𝗧𝗛 𝗧𝗛𝗘 𝗚𝗢𝗔𝗟 𝗢𝗙 𝗧𝗨𝗥𝗡𝗜𝗡𝗚 𝗜𝗧 𝗜𝗡𝗧𝗢 𝗔 𝗚𝗔𝗠𝗘.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
-
-## 🚀 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub) | Rust / TypeScript / React | Desktop HR app with local AI assistant, metrics, leave management, telemarketing |
-| 📱  [PolyBooster](https://github.com/0xAdafang/PolyBooster) | Kotlin | Android vocabulary app for daily boosting and quizzes |
-| 🎭 [PersonAi](https://github.com/0xAdafang/PersonAi) | Rust / TypeScript / Go / Python / React | Desktop assistant role play to create and chat with fully custom AI characters |
-| 🍔 [FastFoodSimulator](https://github.com/0xAdafang/FastFoodSimulator) | Rust | Asynchronous fast-food restaurant simulation in terminal |
-| 🕹  [Retro_Market](https://github.com/0xAdafang/Retro_Market) | TypeScript / PostgreSQL | Full-stack retro marketplace with cart and dashboard |
-| 🔊 [Whisper_Azure](https://github.com/0xAdafang/Whisper_Azure) | Python / Azure | Azure function for automatic audio file transcription via Whisper |
-| 🧭 [WhisperX CLI Migration](https://github.com/0xAdafang/WhisperX-worker-Api_Server) | Python / Azure / Docker | WhisperX migration with API server to CLI using Docker for fast, portable, local transcription on Azure (collaboration for an AI friend) |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
-
-## 🧬 𝗣𝗛𝗜𝗟𝗢𝗦𝗢𝗣𝗛𝗬
-
-<p align="center">
-  <img src="assets/dna4.gif" width="300" alt="dna-animation" style="opacity:0.8; border-radius:12px;" />
-</p>
-
-𝗜 𝗟𝗢𝗩𝗘 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 **𝗦𝗜𝗠𝗣𝗟𝗘 𝗬𝗘𝗧 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟** 𝗧𝗢𝗢𝗟𝗦, 𝗠𝗔𝗦𝗧𝗘𝗥𝗜𝗡𝗚 𝗧𝗛𝗘 𝗦𝗧𝗔𝗖𝗞 𝗙𝗥𝗢𝗠 𝗨𝗜 𝗧𝗢 𝗟𝗢𝗪-𝗟𝗘𝗩𝗘𝗟.  
-𝗜 𝗜𝗡𝗩𝗘𝗦𝗧 𝗠𝗬𝗦𝗘𝗟𝗙 𝗪𝗜𝗧𝗛 𝗣𝗔𝗦𝗦𝗜𝗢𝗡, 𝗗𝗥𝗜𝗩𝗘𝗡 𝗕𝗬 𝗧𝗛𝗘 𝗖𝗨𝗥𝗜𝗢𝗦𝗜𝗧𝗬 𝗧𝗢 𝗔𝗟𝗪𝗔𝗬𝗦 𝗟𝗘𝗔𝗥𝗡.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
-
-## 📬 𝗚𝗘𝗧 𝗜𝗡 𝗧𝗢𝗨𝗖𝗛
-
-- 📫 𝗘𝗠𝗔𝗜𝗟: [adafang@proton.me](mailto:adafang@proton.me)
-- 💼 𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡: [linkedin.com/in/terence-sionneau-8747b819b](https://www.linkedin.com/in/térence-sionneau-8747b819b)
-
-<p align="center">
-  <img src="assets/night.gif" width="300" alt="cyberpunk-car" style="opacity:0.8; border-radius:12px;" />
-</p>
+  <h2>🛠️ Tech Stack & Arsenal</h2>
   
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="200" width="1000" alt="cyberpunk-car-top" style="opacity:0.8; border-radius:12px;" />
-</p>
+  <p><b>⚡ Daily Drivers (Professional Focus)</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
 
-> 🔹 <b> -> 𝗜𝗙 𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗜𝗡𝗦𝗣𝗜𝗥𝗘𝗦 𝗬𝗢𝗨, 𝗟𝗘𝗔𝗩𝗘 𝗔 𝗦𝗧𝗔𝗥 ✨ </b>
+  <p><b>🧪 R&D / Side Projects / Learning</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height ="300" width="1000" alt="cyberpunk-car-bottom" style="opacity:0.8; border-radius:12px;" />
-</p>
+  <br />
+
+  <h2>🚀 Featured Projects</h2>
+  
+</div>
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🃏 [Stacked Deck API](https://github.com/0xAdafang/Stacked_Deck_Api)** | Java Spring Boot / Security | **E-commerce Backend.** Robust REST API managing inventory, JWT authentication, and secure Stripe payments. |
+| **🛒 [Stacked Deck Client](https://github.com/0xAdafang/Stacked_Deck_Web_Client)** | Angular / RxJS / SCSS | **Frontend Storefront.** Modern SPA featuring a premium dark UI, real-time cart management, and reactive state. |
+| **🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub)** | Rust / React / Tauri | **HR Desktop Solution.** All-in-one local app featuring an AI assistant, metrics dashboard, and leave management system. Offline-first. |
+| **🎭 [PersonAi](https://github.com/0xAdafang/PersonAi)** | Rust / Python / React | **AI Roleplay Engine.** Desktop app to create and chat with fully custom AI personas. Bridges local Python inference with a Rust backend. |
+| **📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster)** | Kotlin / Android | **Mobile Learning.** Vocabulary booster app for daily quizzes and progression tracking. |
+
+<br />
+
+<div align="center">
+  <h2>🧬 Philosophy</h2>
+  
+  <p>
+    <i>"Code with passion. Build simple yet powerful tools. Master the stack from UI to Kernel."</i>
+  </p>
+
+  <br />
+
+  <img src="assets/dna4.gif" width="100" alt="dna-animation" style="opacity:0.8; border-radius:12px;" />
+
+  <br />
+  <br />
+
+  <h2>📬 Get In Touch</h2>
+
+  <a href="mailto:adafang@proton.me">
+    <img src="https://img.shields.io/badge/Email-adafang%40proton.me-purple?style=flat-square&logo=protonmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/térence-sionneau-8747b819b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="60" width="100%" style="object-fit: cover; opacity:0.8; border-radius:12px;" />
+
+</div>
