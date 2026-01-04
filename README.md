@@ -65,9 +65,6 @@
 
   <br />
 
-  <br />
-  <br />
-
   <h2>📬 Get In Touch</h2>
 
   <a href="mailto:adafang@proton.me">
