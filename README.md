@@ -65,8 +65,6 @@
 
   <br />
 
-  <img src="assets/dna4.gif" width="100" alt="dna-animation" style="opacity:0.8; border-radius:12px;" />
-
   <br />
   <br />
 
