@@ -47,10 +47,10 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🌌 [LuminAi Backend](https://github.com/0xAdafang/LuminAi_Backend)** | Go / pgvector / OpenAI | **RAG Engine.** High-performance backend handling PDF/URL ingestion, semantic vector search, and adaptive bilingual AI responses. |
-| **✨ [LuminAi WebClient](https://github.com/0xAdafang/LuminAi_WebClient)** | Next.js / Tailwind / Framer | **AI Interface.** Premium bilingual frontend for document intelligence. Features interactive citations and glassmorphism UI. |
 | **🃏 [Stacked Deck API](https://github.com/0xAdafang/Stacked_Deck_Api)** | Java Spring Boot / Security | **E-commerce Backend.** Robust REST API managing inventory, JWT authentication, and secure Stripe payments. |
 | **🛒 [Stacked Deck Client](https://github.com/0xAdafang/Stacked_Deck_Web_Client)** | Angular / RxJS / SCSS | **Frontend Storefront.** Modern SPA featuring a premium dark UI and real-time reactive state management. |
+| **🌌 [LuminAi Backend](https://github.com/0xAdafang/LuminAi_Backend)** | Go / pgvector / OpenAI | **RAG Engine.** High-performance backend handling PDF/URL ingestion, semantic vector search, and adaptive bilingual AI responses. |
+| **✨ [LuminAi WebClient](https://github.com/0xAdafang/LuminAi_WebClient)** | Next.js / Tailwind / Framer | **AI Interface.** Premium bilingual frontend for document intelligence. Features interactive citations and glassmorphism UI. |
 | **🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub)** | Rust / React / Tauri | **HR Desktop Solution.** Offline-first app featuring an AI assistant and metrics dashboard built with Rust. |
 
 <br />
