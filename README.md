@@ -6,38 +6,37 @@
   <br />
 
   <h1>👋 Hi, I'm Terence</h1>
-  <h3>Full Stack Developer | Java Spring Boot & Angular</h3>
+  <h3>Full Stack Developer | AI & Document Intelligence Enthusiast</h3>
 
   <p>
-    <b>Building robust enterprise solutions by day, exploring low-level system programming by night.</b>
+    <b>Building intelligent RAG systems and robust enterprise solutions.</b>
   </p>
 
   <p>
-    Based in <b>Montreal</b> 🇨🇦. I craft web & desktop tools with a focus on performance and architecture.<br>
-    Passionate about <b>AI, Cloud, and Blockchain</b>. Still learning many things about IT, coding, game design.
+    Based in <b>Montreal</b> 🇨🇦. I craft high-performance web & desktop tools with a focus on architecture.<br>
+    Specializing in <b>Go, Java (Spring Boot), and Next.js</b>. Master of bilingual software development.
   </p>
 
   <br />
 
   <h2>🛠️ Tech Stack & Arsenal</h2>
   
-  <p><b>⚡ Daily Drivers (Professional Focus)</b></p>
+  <p><b>⚡ Core Competencies (Daily Drivers)</b></p>
   <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 
-  <p><b>🧪 R&D / Side Projects / Learning</b></p>
+  <p><b>🧪 Enterprise & Research</b></p>
   <p>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 
   <br />
@@ -48,11 +47,11 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
+| **🌌 [LuminAi Backend](https://github.com/0xAdafang/LuminAi_Backend)** | Go / pgvector / OpenAI | **RAG Engine.** High-performance backend handling PDF/URL ingestion, semantic vector search, and adaptive bilingual AI responses. |
+| **✨ [LuminAi WebClient](https://github.com/0xAdafang/LuminAi_WebClient)** | Next.js / Tailwind / Framer | **AI Interface.** Premium bilingual frontend for document intelligence. Features interactive citations and glassmorphism UI. |
 | **🃏 [Stacked Deck API](https://github.com/0xAdafang/Stacked_Deck_Api)** | Java Spring Boot / Security | **E-commerce Backend.** Robust REST API managing inventory, JWT authentication, and secure Stripe payments. |
-| **🛒 [Stacked Deck Client](https://github.com/0xAdafang/Stacked_Deck_Web_Client)** | Angular / RxJS / SCSS | **Frontend Storefront.** Modern SPA featuring a premium dark UI, real-time cart management, and reactive state. |
-| **🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub)** | Rust / React / Tauri | **HR Desktop Solution.** All-in-one local app featuring an AI assistant, metrics dashboard, and leave management system. Offline-first. |
-| **🎭 [PersonAi](https://github.com/0xAdafang/PersonAi)** | Rust / Python / React | **AI Roleplay Engine.** Desktop app to create and chat with fully custom AI personas. Bridges local Python inference with a Rust backend. |
-| **📱 [PolyBooster](https://github.com/0xAdafang/PolyBooster)** | Kotlin / Android | **Mobile Learning.** Vocabulary booster app for daily quizzes and progression tracking. |
+| **🛒 [Stacked Deck Client](https://github.com/0xAdafang/Stacked_Deck_Web_Client)** | Angular / RxJS / SCSS | **Frontend Storefront.** Modern SPA featuring a premium dark UI and real-time reactive state management. |
+| **🔐 [Smart_Hub](https://github.com/0xAdafang/Smart_Hub)** | Rust / React / Tauri | **HR Desktop Solution.** Offline-first app featuring an AI assistant and metrics dashboard built with Rust. |
 
 <br />
 
@@ -60,7 +59,7 @@
   <h2>🧬 Philosophy</h2>
   
   <p>
-    <i>"Code with passion. Build simple yet powerful tools. Master the stack from UI to Kernel."</i>
+    <i>"Code with precision. Build intelligent tools. Bridge the gap between human questions and data."</i>
   </p>
 
   <br />
