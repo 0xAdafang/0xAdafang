@@ -14,7 +14,7 @@
 
   <p>
     Based in <b>Montreal</b> 🇨🇦. I craft high-performance web & desktop tools with a focus on architecture.<br>
-    Specializing in <b>Go, Java (Spring Boot), and Next.js</b>. Master of bilingual software development.
+    Specializing in <b>Go, Java (Spring Boot), Angular and Next.js</b>. 
   </p>
 
   <br />
