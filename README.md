@@ -9,7 +9,7 @@
   </p>
   <p>
     Based in <b>Montreal</b> 🇨🇦. I craft high-performance web & desktop tools with a focus on architecture.<br>
-    Specializing in <b>Go, Java (Spring Boot), Angular and Next.js</b>. 
+    Specializing in <b>Java (Spring Boot)+ Angular & Go + Next.js</b>. 
   </p>
   <br />
   <h2>🛠️ Tech Stack & Arsenal</h2>
