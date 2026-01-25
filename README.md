@@ -14,7 +14,7 @@
   <br />
   <h2>🛠️ Tech Stack & Arsenal</h2>
   
-  <p><b>⚡ Core Competencies (Daily Drivers)</b></p>
+  <p><b>⚡ Main Stack </b></p>
   <table>
     <tr>
       <td align="center" width="96">
@@ -48,7 +48,7 @@
     </tr>
   </table>
   
-  <p><b>🧪 Enterprise & Research</b></p>
+  <p><b> Alternative Stack & Language </b></p>
   <table>
     <tr>
       <td align="center" width="96">
