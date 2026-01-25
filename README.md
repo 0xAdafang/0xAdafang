@@ -48,7 +48,7 @@
     </tr>
   </table>
   
-  <p><b> Alternative Stacks & Languages </b></p>
+  <p><b>♟ Alternative Stacks & Languages </b></p>
   <table>
     <tr>
       <td align="center" width="96">
