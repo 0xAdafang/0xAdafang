@@ -10,6 +10,7 @@
   <p>
     Based in <b>Montreal</b> 🇨🇦. I craft web & desktop tools with a focus on architecture.<br>
     Specializing in <b>Java (Spring Boot)+ Angular & Go + Next.js</b>. 
+    i like Rust to.
   </p>
   <br />
   <h2>🛠️ Tech Stack & Arsenal</h2>
