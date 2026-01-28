@@ -5,10 +5,10 @@
   <h1>👋 Hi, I'm Terence</h1>
   <h3>Full Stack Developer | AI & Document Intelligence Enthusiast</h3>
   <p>
-    <b>Building intelligent RAG systems and robust enterprise solutions.</b>
+    <b>Just a guy who coding and learning new things !</b>
   </p>
   <p>
-    Based in <b>Montreal</b> 🇨🇦. I craft high-performance web & desktop tools with a focus on architecture.<br>
+    Based in <b>Montreal</b> 🇨🇦. I craft web & desktop tools with a focus on architecture.<br>
     Specializing in <b>Java (Spring Boot)+ Angular & Go + Next.js</b>. 
   </p>
   <br />
@@ -93,7 +93,7 @@
   <h2>🧬 Philosophy</h2>
   
   <p>
-    <i>"Code with precision. Build intelligent tools. Bridge the gap between human questions and data."</i>
+    <i>"I code for fun, I enjoy learning new things, discovering new functions or languages !"</i>
   </p>
   <br />
   <h2>📬 Get In Touch</h2>
