@@ -3,7 +3,7 @@
   <br />
   <br />
   <h1>👋 Hi, I'm Terence</h1>
-  <h3>Full Stack Developer | AI & Document Intelligence Enthusiast</h3>
+  <h3>Full Stack Developer</h3>
   <p>
     <b>Just a guy who coding and learning new things !</b>
   </p>
