@@ -94,7 +94,7 @@
   <h2>🧬 Philosophy</h2>
   
   <p>
-    <i>"I code for fun, I enjoy learning new things, discovering new functions or languages !"</i>
+    <i>"I'm coding for fun, I enjoy learning new things, discovering new functions or languages !"</i>
   </p>
   <br />
   <h2>📬 Get In Touch</h2>
