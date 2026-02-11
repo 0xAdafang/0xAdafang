@@ -91,7 +91,7 @@
 <br />
 
 <div align="center">
-  <h2>🧬 Philosophy</h2>
+  <h2>🧬 My Philosophy</h2>
   
   <p>
     <i>"I'm coding for fun, I enjoy learning new things, discovering new functions or languages !"</i>
